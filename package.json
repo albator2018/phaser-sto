@@ -1,0 +1,30 @@
+{
+  "name": "phaser-sto",
+  "version": "1.0.0",
+  "description": "A Phaser with PhaserJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albator95/phaser-sto.git"
+  },
+  "keywords": [
+    "Phaser",
+    "Node"
+  ],
+  "author": "Albator95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samme/phaser-ce/issues"
+  },
+  "homepage": "https://github.com/samme/phaser-ce",
+  "dependencies": {
+    "express": "^4.15.2",
+    "sto-api": "1.0.1"
+  },
+  "devDependencies": {
+  }
+}
